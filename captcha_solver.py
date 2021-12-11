@@ -24,6 +24,7 @@ class CaptchaSolver:
             img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
             
             results = model(img, size=416)  
+            #results.show()
 
             if results.xyxy[0].shape[0] >= 1:
                 for box in range(0, results.xyxy[0].shape[0]):
