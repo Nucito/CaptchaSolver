@@ -12,3 +12,11 @@ Isso não é um bot esse codigo apenas faz o reconhecimento do captcha para que 
 Se quiser uma amostra de como o codigo funciona veja na pasta videos🗺
 
 **O pytorch so suporta versões do python 3.9.x**
+
+Teste em imagem:
+
+![Image](https://github.com/Nucito/CaptchaSolver/blob/main/image.jpeg?raw=true)
+
+Resultando em:
+
+![Image](https://i.ibb.co/1X9RGpH/result.jpg)
