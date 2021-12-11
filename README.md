@@ -1,4 +1,3 @@
-	
 # CaptchaSolver - LEIA ISSO 😓
 
 Para iniciar o codigo:
