@@ -7,7 +7,6 @@ Para iniciar o codigo:
 
 Se você deseja pegar ver o resultado das imagens com as marcações tire o comentario da linha 27.
 OBS: Esse projeto usa como base o YOLOv5😁
-
 Isso não é um bot esse codigo apenas faz o reconhecimento do captcha para que **VOCÊ** possa implementar em seu codigo.
 Se quiser uma amostra de como o codigo funciona veja na pasta videos🗺
 
