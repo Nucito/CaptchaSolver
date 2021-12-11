@@ -12,7 +12,7 @@ class CaptchaSolver:
         
         for cord in cords:
             for x in range(0, len(self.boxes)):
-                if list(self.boxes[x].values())[0]['x2'] == cord:
+                if list(self.boxes[x].values())[0]['y1'] == cord:
                     solved += str(list(self.boxes[x].keys())[0])
         
         self.text = solved
@@ -32,7 +32,7 @@ class CaptchaSolver:
                     if percent >= percent_required:
                         self.boxes.append({str(int(pred.item())):{"x1":round(x1.item(), 2), "y1":round(y1.item(), 2), "x2":round(x2.item(), 2), "y2":round(y2.item(), 2), "per":round(percent.item(), 2)}})
                 
-                xCord = sorted([self.boxes[x][list(self.boxes[x].keys())[0]]['x2'] for x in range(0, len(self.boxes))])
+                xCord = sorted([self.boxes[x][list(self.boxes[x].keys())[0]]['y1'] for x in range(0, len(self.boxes))])
                 
                 self.toText(xCord)
                 
