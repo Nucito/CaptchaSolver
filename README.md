@@ -18,3 +18,7 @@ Teste em imagem:
 Resultando em:
 
 ![Image](https://i.ibb.co/1X9RGpH/result.jpg)
+
+Doações:
+
+Rede BSC: 0x6A0A96c348BF9e8A0333B9fe12F452043AF11a30
