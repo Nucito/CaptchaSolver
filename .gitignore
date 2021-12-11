@@ -12,7 +12,6 @@
 *.TIF
 *.TIFF
 *.HEIC
-*.mp4
 *.mov
 *.MOV
 *.avi
@@ -51,7 +50,6 @@ VOC/
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
-*.pt
 *.onnx
 *.mlmodel
 *.torchscript
