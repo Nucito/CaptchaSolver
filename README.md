@@ -5,6 +5,10 @@ Para iniciar o codigo:
 - python captcha_solver.py
 
 Se você deseja pegar ver o resultado das imagens com as marcações tire o comentario da linha 27.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 418594f69fd013f491bf91bcb0119173e2f7fe9b
 OBS: Esse projeto usa como base o YOLOv5😁
 
 Isso não é um bot esse codigo apenas faz o reconhecimento do captcha para que **VOCÊ** poder implementar em seu codigo.
