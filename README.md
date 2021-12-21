@@ -1,6 +1,6 @@
 # CaptchaSolver - LEIA ISSO 😓
 
-![Read this in english](https://github.com/Nucito/CaptchaSolver/blob/main/README.en.md)
+[Read this in english](https://github.com/Nucito/CaptchaSolver/blob/main/README.en.md)
 
 Para iniciar o codigo:
 - pip install -r requirements.txt
